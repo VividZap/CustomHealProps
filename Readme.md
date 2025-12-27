@@ -18,15 +18,16 @@ Download CustomHealprops.dll and go in your server folders
 
 | Item            | Ability   |
 |-----------------|-----------|
-| FakeSCP500      | Hello git |
-| EnhancedSCP500  | Hi github |
-| Drugs (joke XD) | Hey there |
-| Adrenaline I    | Hey there |
-| Adrenaline II   | Hey there |
+| FakeSCP500      | . . ......|
+| EnhancedSCP500  |  |
+| Drugs (joke XD) |  |
+| Adrenaline I    | |
+| Adrenaline II   |   |
 
 ### Support / Report Bugs :
 [Exiled Discord Server](https://discord.gg/DBVbmNqcAW) **Ask any one or you can ping me @VividZap**
 >after put plugin go to config and edit your hints for work in game 
 >> Exiled > Config > Plugins > CHP.yml
+
 
 ### Thx for all :3
