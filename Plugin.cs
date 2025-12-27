@@ -20,6 +20,7 @@ namespace CustomHealprops
             new FakeSCP500().Register();
             new EnhancedSCP500().Register();
             new AdrenalineI().Register();
+            new AdrenalineII().Register();
             Log.Debug($"{nameof(Plugin) } is enabled.");
             base.OnEnabled();
         }
